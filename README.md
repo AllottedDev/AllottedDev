@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a **game developer** and **Python programmer**
 
 - Indie Game Development with **Python & Pygame**  
 - Code Games
-- Bad at art 
+- Bad at art and music so code mostly :D
 
 ---
 
